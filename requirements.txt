@@ -1,0 +1,5 @@
+Flask
+natto-py
+numpy
+scikit-learn
+scipy
